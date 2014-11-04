@@ -22,11 +22,4 @@ Number of websites around. On the single-page static website front [SinglePaged]
 
 There area number of other simple tricks such as inline color and font changes. See [this site](http://magiciansanfrancisco.com/) ([GitHub source code](https://github.com/strongrobert/MagicianSanFrancisco)) for some examples.
 
-## ToDo
-
-* Replace text
-* http://prose.io/#about, https://github.com/prose/prose/wiki/Prose-Configuration and https://github.com/prose/starter
-* Read up on [CNAME](http://in-the-attic.com/2013/01/04/building-a-blog-using-jekyll-bootstrap-and-github-pages-a-beginners-guide/)
-* Work through [Jekyll docs](http://jekyllrb.com/)
-
 
